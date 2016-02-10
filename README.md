@@ -14,5 +14,3 @@ changing MAX_TEXT_SIZE.
 change MSG_WIDTH and MSG_HEIGHT.
 * The ip address and the port of the two sockets are 127.0.0.1, 45000; and 
 127.0.1, 45001. You can change them by changing IP, PORT1 and PORT2.
-
-The two bonus functions have not been implemented yet.
